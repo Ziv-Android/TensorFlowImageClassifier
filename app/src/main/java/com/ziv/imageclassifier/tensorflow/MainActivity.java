@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements ImageReader.OnIma
     private Handler mBackgroundHandler;
 
     private ImageView mImage;
+//    private
     private TextView mResultText;
 
     private AtomicBoolean mReady = new AtomicBoolean(false);
